@@ -1,0 +1,6 @@
+public class demo123{
+
+public Static void main(String args[]){
+system.out.println("hello amit how are you")
+}
+]
